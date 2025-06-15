@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BoolVeriTipi", "BoolVeriTip
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObjectVeriTipi", "ObjectVeriTipi\ObjectVeriTipi.csproj", "{254F1715-69DD-4D9D-BA12-09C492519114}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToplamaVeCikarmaOperatorleri", "ToplamaVeCikarmaOperatorleri\ToplamaVeCikarmaOperatorleri.csproj", "{4F5297D6-73FD-44AE-8840-7337285B19AA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,10 @@ Global
 		{254F1715-69DD-4D9D-BA12-09C492519114}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{254F1715-69DD-4D9D-BA12-09C492519114}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{254F1715-69DD-4D9D-BA12-09C492519114}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F5297D6-73FD-44AE-8840-7337285B19AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F5297D6-73FD-44AE-8840-7337285B19AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F5297D6-73FD-44AE-8840-7337285B19AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F5297D6-73FD-44AE-8840-7337285B19AA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
