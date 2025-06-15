@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorld", "..\HelloWorld
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ByteProjesi", "..\ByteProjesi\ByteProjesi.csproj", "{3F474B04-4CDB-4504-AFF7-75D68F76DAB7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShortVeriTipi", "..\ShortVeriTipi\ShortVeriTipi.csproj", "{C2A8C0DD-A0EC-4264-BC44-84E1B5D3F61C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{3F474B04-4CDB-4504-AFF7-75D68F76DAB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3F474B04-4CDB-4504-AFF7-75D68F76DAB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3F474B04-4CDB-4504-AFF7-75D68F76DAB7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C2A8C0DD-A0EC-4264-BC44-84E1B5D3F61C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2A8C0DD-A0EC-4264-BC44-84E1B5D3F61C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2A8C0DD-A0EC-4264-BC44-84E1B5D3F61C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2A8C0DD-A0EC-4264-BC44-84E1B5D3F61C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
