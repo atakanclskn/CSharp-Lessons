@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DoubleVeriTipi", "DoubleVer
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CharVeriTipi", "CharVeriTipi\CharVeriTipi.csproj", "{8377A5DA-5F82-46EE-BA71-C2D1E85A2D97}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringVeriTipi", "StringVeriTipi\StringVeriTipi.csproj", "{4F5B2E08-96BD-429B-A099-2B163546E305}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +59,10 @@ Global
 		{8377A5DA-5F82-46EE-BA71-C2D1E85A2D97}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8377A5DA-5F82-46EE-BA71-C2D1E85A2D97}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8377A5DA-5F82-46EE-BA71-C2D1E85A2D97}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F5B2E08-96BD-429B-A099-2B163546E305}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F5B2E08-96BD-429B-A099-2B163546E305}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F5B2E08-96BD-429B-A099-2B163546E305}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F5B2E08-96BD-429B-A099-2B163546E305}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
