@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntVeriTipi", "IntVeriTipi\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LongVeriTipi", "LongVeriTipi\LongVeriTipi.csproj", "{323C42B4-ED8F-451E-BD8D-6A820F28C3F5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FloatVeriTipi", "FloatVeriTipi\FloatVeriTipi.csproj", "{EB21DACC-FD99-4EBD-9B88-E759D585B3CC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{323C42B4-ED8F-451E-BD8D-6A820F28C3F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{323C42B4-ED8F-451E-BD8D-6A820F28C3F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{323C42B4-ED8F-451E-BD8D-6A820F28C3F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB21DACC-FD99-4EBD-9B88-E759D585B3CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB21DACC-FD99-4EBD-9B88-E759D585B3CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB21DACC-FD99-4EBD-9B88-E759D585B3CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB21DACC-FD99-4EBD-9B88-E759D585B3CC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
