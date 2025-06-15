@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToplamaVeCikarmaOperatorler
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarpmaVeBolmeOperatorleri", "CarpmaVeBolmeOperatorleri\CarpmaVeBolmeOperatorleri.csproj", "{4C7B862B-B31F-4956-9BE5-906693F55D6E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModAlmaOperatoru", "ModAlmaOperatoru\ModAlmaOperatoru.csproj", "{B126E0AE-D58C-4DD6-96DF-AE4EC4CD5A7A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{4C7B862B-B31F-4956-9BE5-906693F55D6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4C7B862B-B31F-4956-9BE5-906693F55D6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4C7B862B-B31F-4956-9BE5-906693F55D6E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B126E0AE-D58C-4DD6-96DF-AE4EC4CD5A7A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B126E0AE-D58C-4DD6-96DF-AE4EC4CD5A7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B126E0AE-D58C-4DD6-96DF-AE4EC4CD5A7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B126E0AE-D58C-4DD6-96DF-AE4EC4CD5A7A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
