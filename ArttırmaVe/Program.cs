@@ -23,7 +23,7 @@ namespace ArttırmaVe
 
             int sayi1 = 1; // Birinci sayı
             int sayi2 = 2; // İkinci sayı
-            int sayi3 = 3; // Üçüncü sayı
+            int sayi3 = 3; // Üçüncü sayı,
             int sayi4 = 4; // Dördüncü sayı
 
             sayi1++; // sayi1'in değerini 1 artırır (sayi1 = 2 olur) - Sonra artırma (post-increment)
