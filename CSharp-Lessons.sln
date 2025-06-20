@@ -39,6 +39,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EsittirOperatoru", "Esittir
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EsitDegildirOperatoru", "EsitDegildirOperatoru\EsitDegildirOperatoru.csproj", "{DFF374D8-23F2-4E5C-A03B-F014616D3D6C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BuyukturVeBuyukesitOperatorleri", "BuyukturVeBuyukesitOperatorleri\BuyukturVeBuyukesitOperatorleri.csproj", "{BF3B473C-D32F-41A2-9CF6-A7C54BA4F22A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -117,6 +119,10 @@ Global
 		{DFF374D8-23F2-4E5C-A03B-F014616D3D6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DFF374D8-23F2-4E5C-A03B-F014616D3D6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DFF374D8-23F2-4E5C-A03B-F014616D3D6C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF3B473C-D32F-41A2-9CF6-A7C54BA4F22A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF3B473C-D32F-41A2-9CF6-A7C54BA4F22A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF3B473C-D32F-41A2-9CF6-A7C54BA4F22A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF3B473C-D32F-41A2-9CF6-A7C54BA4F22A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
