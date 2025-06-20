@@ -51,6 +51,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DegilOperatoru", "DegilOper
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BreakPointVeTooltip", "BreakPointVeTooltip\BreakPointVeTooltip.csproj", "{9639C051-E8C6-4276-98C6-9F994208F3BA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KullanicidanDegerAlma", "KullanicidanDegerAlma\KullanicidanDegerAlma.csproj", "{E62E4442-6E6A-4C41-8A37-815A767B3BFF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -153,6 +155,10 @@ Global
 		{9639C051-E8C6-4276-98C6-9F994208F3BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9639C051-E8C6-4276-98C6-9F994208F3BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9639C051-E8C6-4276-98C6-9F994208F3BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E62E4442-6E6A-4C41-8A37-815A767B3BFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E62E4442-6E6A-4C41-8A37-815A767B3BFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E62E4442-6E6A-4C41-8A37-815A767B3BFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E62E4442-6E6A-4C41-8A37-815A767B3BFF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
