@@ -41,6 +41,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EsitDegildirOperatoru", "Es
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BuyukturVeBuyukesitOperatorleri", "BuyukturVeBuyukesitOperatorleri\BuyukturVeBuyukesitOperatorleri.csproj", "{BF3B473C-D32F-41A2-9CF6-A7C54BA4F22A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KucukturVeKucukesittirOperatoru", "KucukturVeKucukesittirOperatoru\KucukturVeKucukesittirOperatoru.csproj", "{B8C96B52-5196-498B-80C7-FA62C9D9A55E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -123,6 +125,10 @@ Global
 		{BF3B473C-D32F-41A2-9CF6-A7C54BA4F22A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BF3B473C-D32F-41A2-9CF6-A7C54BA4F22A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BF3B473C-D32F-41A2-9CF6-A7C54BA4F22A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8C96B52-5196-498B-80C7-FA62C9D9A55E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8C96B52-5196-498B-80C7-FA62C9D9A55E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8C96B52-5196-498B-80C7-FA62C9D9A55E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8C96B52-5196-498B-80C7-FA62C9D9A55E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

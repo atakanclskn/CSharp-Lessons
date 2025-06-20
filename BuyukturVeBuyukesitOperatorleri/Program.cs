@@ -23,7 +23,7 @@ namespace BuyukturVeBuyukesitOperatorleri
 
             int yas = 12; // yas değişkenine 12 değeri atanır
 
-            bool kontrolEt = yas > 18; // yas 18'den büyük mü? Sonuç: false
+            bool kontrolEt = yas > 12; // yas 12'den büyük mü? Sonuç: false
             Console.WriteLine(kontrolEt); // Sonucu ekrana yazdırır (false)
 
             bool kontrolEt2 = yas >= 12; // yas 12'ye eşit veya büyük mü? Sonuç: true
