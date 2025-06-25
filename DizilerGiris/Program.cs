@@ -74,6 +74,22 @@ namespace DizilerGiris
                 Console.WriteLine(harfler[i]); // Her bir harfi ekrana yazdırır
             }
 
+            //Dizinin elemanlarini kullanicidan alma
+
+            int[] p = new int[5];
+            for (int o = 0; o < p.Length; o++) 
+            {
+                Console.Write("Sayilar dizisinin "+(o+1)+"`nci index degerini giriniz:");
+
+                p[o] = Convert.ToInt32(Console.ReadLine());
+
+            }
+
+            for (int i = 0;i < p.Length; i++)
+            {
+                Console.WriteLine(p[i]);
+            }
+
             Console.ReadLine(); // Programın hemen kapanmaması için bekler
         }
     }
