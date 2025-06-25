@@ -65,6 +65,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IcIceForDongusu", "IcIceFor
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WhileDongusu", "WhileDongusu\WhileDongusu.csproj", "{F290F5AE-3683-407E-96E9-0A1E5F62E7FB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DoWhile", "DoWhile\DoWhile.csproj", "{EAAC235B-E140-4BCA-957D-EB8B88A6D766}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -195,6 +197,10 @@ Global
 		{F290F5AE-3683-407E-96E9-0A1E5F62E7FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F290F5AE-3683-407E-96E9-0A1E5F62E7FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F290F5AE-3683-407E-96E9-0A1E5F62E7FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EAAC235B-E140-4BCA-957D-EB8B88A6D766}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAAC235B-E140-4BCA-957D-EB8B88A6D766}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAAC235B-E140-4BCA-957D-EB8B88A6D766}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAAC235B-E140-4BCA-957D-EB8B88A6D766}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
