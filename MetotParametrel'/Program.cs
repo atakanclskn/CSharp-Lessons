@@ -26,6 +26,7 @@ namespace MetotParametreli
 
             // Parametreli metot çağrılır ve a, b değerleri gönderilir
             toplamaYap(a, b);
+            carpmaYap(a, b);
         }
 
         // Parametreli metot nedir?
@@ -37,6 +38,12 @@ namespace MetotParametreli
         {
             // Gönderilen iki sayının toplamını ekrana yazdırır
             Console.WriteLine("Gonderilen sayilarin toplami = " + (sayi1 + sayi2));
+
+        }
+        static void carpmaYap(int sayi3, int sayi4)
+        {
+
+            Console.WriteLine("Gonderilen sayilarin carpimi = " + (sayi3 * sayi4));
             Console.ReadLine(); // Programın hemen kapanmaması için bekler
         }
     }
