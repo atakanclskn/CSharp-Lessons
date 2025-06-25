@@ -71,6 +71,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BreakandContinue", "Breakan
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DizilerGiris", "DizilerGiris\DizilerGiris.csproj", "{611A381F-F61D-4E18-8E25-CA53B6720F86}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ForEachDongusu", "ForEachDongusu\ForEachDongusu.csproj", "{243ACA3B-2CBF-4D36-93BB-7D85F0704C2D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -213,6 +215,10 @@ Global
 		{611A381F-F61D-4E18-8E25-CA53B6720F86}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{611A381F-F61D-4E18-8E25-CA53B6720F86}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{611A381F-F61D-4E18-8E25-CA53B6720F86}.Release|Any CPU.Build.0 = Release|Any CPU
+		{243ACA3B-2CBF-4D36-93BB-7D85F0704C2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{243ACA3B-2CBF-4D36-93BB-7D85F0704C2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{243ACA3B-2CBF-4D36-93BB-7D85F0704C2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{243ACA3B-2CBF-4D36-93BB-7D85F0704C2D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
