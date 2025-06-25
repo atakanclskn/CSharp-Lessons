@@ -29,6 +29,9 @@ namespace PublicPrivateErisimBelirleyiciler
             musteri1.maas = 6636;          // public alan: dışarıdan erişilebilir
             musteri1.sex = "E";            // public alan: dışarıdan erişilebilir
             // musteri1.yas;               // private alan: dışarıdan erişilemez (hata verir)
+
+            musteri1.musterininBilgileriniGoster();
+
         }
     }
 }

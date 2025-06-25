@@ -27,7 +27,7 @@ namespace PublicPrivateErisimBelirleyiciler
             Console.WriteLine("Yas degeri:"+yas);
         }
 
-        private void isimSoyisimYazdir(string musteriisim,string musteriSoyisim)
+        public void isimSoyisimYazdir(string musteriisim,string musteriSoyisim)
         {
             Console.WriteLine("Musterinin Isim Soyismi:"+musteriisim+" "+musteriSoyisim);
         }
